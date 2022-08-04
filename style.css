@@ -20,5 +20,13 @@
     background-color: #fff;
     color: black;
     text-align: center;
-    font-size: 3em;
+    font-size: 2em;
+}
+p{
+    font-size: .7em;
+    margin: 2px 6px;
+    padding: 8px;
+    border: 2px solid cornflowerblue;
+    text-align: justify;
+
 }
